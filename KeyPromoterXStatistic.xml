@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>218</Count>
+          <Count>220</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -254,7 +254,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go To Hash/Branch/Tag">
@@ -358,7 +358,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>74</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -422,7 +422,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'All'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'All-common'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Run 'All-common'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Blackjack.js'">
@@ -463,6 +471,14 @@
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Run 'ChangePasswordMutati...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Getting all users returns 200 and an arr...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Run 'Getting all users returns 200 and an arr...'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Jest'">
@@ -758,7 +774,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Settings...</Description>
-          <Count>76</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram Popup...">
@@ -815,6 +831,14 @@
           <ShortCut>'Shift+F11' or 'Ctrl+Shift+F8'</ShortCut>
           <Description>Step Out</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'All'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Cat CaseList (1)'">
@@ -886,6 +910,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'Service Calls.Users.getUsers'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'User service calls.Getting all users returns 200 and an array '">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'User service calls.Getting all users returns 200 and an array '</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -983,6 +1015,14 @@
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'start'</Description>
           <Count>28</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop...">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
