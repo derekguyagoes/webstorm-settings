@@ -222,7 +222,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>245</Count>
+          <Count>249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -358,7 +358,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -438,6 +438,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Run 'Blackjack.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Caselist.gets a single caselist'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Run 'Caselist.gets a single caselist'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
