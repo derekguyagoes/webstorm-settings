@@ -342,7 +342,7 @@
           <IdeaActionID>OpenFile</IdeaActionID>
           <ShortCut>'Ctrl+O'</ShortCut>
           <Description>Open...</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -366,7 +366,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>95</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -617,6 +617,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'index.html'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Run 'index.html'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'login.spec.js'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -806,7 +814,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Settings...</Description>
-          <Count>89</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram Popup...">
