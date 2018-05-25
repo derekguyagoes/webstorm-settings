@@ -753,6 +753,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'scripts.js'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Run 'scripts.js'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'signup.spec.js'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -814,7 +822,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Settings...</Description>
-          <Count>90</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram Popup...">
@@ -1023,6 +1031,14 @@
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'create-react-app:3000'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'http://localhost:63342/info-scroll-bar/index.html'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'http://localhost:63342/info-scroll-bar/index.html'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'index-START.html'">
