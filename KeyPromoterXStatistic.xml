@@ -246,7 +246,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>289</Count>
+          <Count>290</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -838,7 +838,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Settings...</Description>
-          <Count>100</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram Popup...">
