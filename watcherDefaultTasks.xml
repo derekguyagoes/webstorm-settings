@@ -20,8 +20,8 @@
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="false">
-      <option name="arguments" value="--config ../.prettierrc --write $FilePathRelativeToProjectRoot$" />
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="--write --single-quote --no-semi $FilePathRelativeToProjectRoot$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
@@ -33,7 +33,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/usr/local/bin/prettier" />
+      <option name="program" value="/usr/local/lib/node_modules/prettier/bin-prettier.js" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
