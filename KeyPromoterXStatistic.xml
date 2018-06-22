@@ -278,7 +278,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Go To Hash/Branch/Tag">
