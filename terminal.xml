@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/usr/bin/terminator" />
+    <option name="myShellPath" value="usr/bin/terminator  --borderless --layout=webstorm --new-tab" />
   </component>
 </application>
