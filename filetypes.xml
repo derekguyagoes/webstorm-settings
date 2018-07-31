@@ -4,7 +4,6 @@
       <mapping pattern="Dockerfile-prod" type="Dockerfile" />
       <mapping ext="prod" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
