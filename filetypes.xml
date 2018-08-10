@@ -6,6 +6,7 @@
       <mapping ext="prod" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping pattern="NotDefault" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
