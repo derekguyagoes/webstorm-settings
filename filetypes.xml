@@ -1,12 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile-prod" type="Dockerfile" />
-      <mapping ext="notdefault" type="Dockerfile" />
-      <mapping ext="prod" type="Dockerfile" />
-      <mapping ext="dev" type="Dockerfile" />
-      <mapping ext="dockerfile" type="Dockerfile" />
-      <mapping pattern="NotDefault" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
