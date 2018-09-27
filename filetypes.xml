@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="hello" type="Dockerfile" />
       <mapping ext="cypress" type="Dockerfile" />
+      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="jq logs" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
