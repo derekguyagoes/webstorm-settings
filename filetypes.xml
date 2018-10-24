@@ -1,7 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-cypress" type="Dockerfile" />
+      <mapping ext="hello" type="Dockerfile" />
+      <mapping ext="dev" type="Dockerfile" />
+      <mapping ext="cypress" type="Dockerfile" />
+      <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping pattern="jq logs" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
