@@ -1,3 +1,7 @@
 <application>
-  <component name="LiveEditOptions" chromeAutoDelay="5000" chromeUpdateApp="true" chromeUpdateOnChanges="true" nodeAutoDelay="5000" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Hack" />
+    <option name="FONT_SCALE" value="0.75" />
+  </component>
 </application>
