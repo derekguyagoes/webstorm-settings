@@ -1185,14 +1185,6 @@
           <Count>6</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Terminal">
-        <Item>
-          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
-          <ShortCut>'Alt+F12'</ShortCut>
-          <Description>Terminal</Description>
-          <Count>209</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Type Declaration">
         <Item>
           <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
@@ -1222,7 +1214,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
     </option>
@@ -1241,6 +1233,14 @@
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
