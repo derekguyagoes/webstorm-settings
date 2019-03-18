@@ -4,6 +4,7 @@
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="s" type="JSON" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
